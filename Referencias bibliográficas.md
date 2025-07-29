@@ -1,7 +1,3 @@
-Aquí tienes el listado en **formato cita-nota (alfabético)**, incluyendo autores clásicos y referencias específicas de **argumentación jurídica** (sin numeración progresiva):
-
----
-
 # Referencias Bibliográficas en Metodología Jurídica  
 *(Orden alfabético / Formato cita-nota - Chicago modificado)*  
 
