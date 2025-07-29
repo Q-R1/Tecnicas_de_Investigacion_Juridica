@@ -48,15 +48,15 @@ Diseño efectivo:
 Aplicación:
 Encuesta a ciudadanos sobre percepción de corrupción en instituciones públicas.
 
-4. 💻 Uso de Software Open Source (Rstudio) para el Análisis
+4. 💻 Uso de Software Open Source (Rstudio, Python) para el Análisis
 Ventajas:
 
 💰 Costo cero y transparencia metodológica.
 
-🔄 Compatibilidad con formatos abiertos (CSV, ODF).
+🔄 Compatibilidad con formatos abiertos (Xls, CSV, ODF).
 
 Ejemplo:
-Mapa de redes de corrupción generado con Gephi.
+Gráfico de tendencias de amparo
 
 🎯 Conclusión
 La elección de la técnica depende del objetivo de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
