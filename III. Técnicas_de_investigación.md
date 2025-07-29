@@ -1,63 +1,70 @@
-Técnicas de Investigación Jurídica
-Cuatro metodologías clave para proyectos legales, con herramientas prácticas y ejemplos aplicados al derecho
+Técnicas de Investigación Jurídica y Social
+# Técnicas de Investigación
 
-1. 📄 Análisis Documental
-Definición:
-🔍 Examen sistemático de fuentes escritas (leyes, sentencias, libros, artículos científicos).
+A continuación, se presentan cuatro técnicas fundamentales para la investigación jurídica y social, con énfasis en su aplicación práctica:
 
-Pasos clave:
+---
 
-📌 Identificar fuentes primarias (normativas) y secundarias (doctrina).
+## 1. Análisis Documental  
+**Definición:**  
+Examen sistemático de fuentes escritas (leyes, sentencias, libros, artículos científicos).  
 
-🕵️ Evaluar la credibilidad y actualidad de los documentos.
+**Pasos clave:**  
+- Identificar fuentes primarias (normativas) y secundarias (doctrina).  
+- Evaluar la credibilidad y actualidad de los documentos.  
+- Sintetizar información relevante mediante matrices de análisis.  
 
-✂️ Sintetizar información relevante mediante matrices de análisis.
+**Ejemplo:**  
+Análisis comparativo de fallos judiciales sobre un mismo delito en diferentes jurisdicciones.  
 
-Ejemplo:
-⚖ Análisis comparativo de fallos judiciales sobre un mismo delito en diferentes jurisdicciones.
+---
 
-2. 🎤 Entrevista y Notas
-Definición:
-🗣 Recolección de información mediante interacción directa con actores clave (jueces, abogados, testigos).
+## 2. Entrevista y Notas  
+**Definición:**  
+Recolección de información mediante interacción directa con actores clave (jueces, abogados, testigos).  
 
-Recomendaciones:
+**Recomendaciones:**  
+- Preparar un guión con preguntas abiertas y cerradas.  
+- Grabar (con consentimiento) y tomar notas *in situ*.  
+- Transcribir y codificar respuestas para identificar patrones.  
 
-📝 Preparar un guión con preguntas abiertas y cerradas.
+**Ejemplo:**  
+Entrevista a fiscales sobre desafíos en la persecución de delitos económicos.  
 
-⏺ Grabar (con consentimiento) y tomar notas in situ.
+---
 
-📊 Transcribir y codificar respuestas para identificar patrones.
+## 3. Cuestionario  
+**Definición:**  
+Instrumento estandarizado para recoger datos cuantitativos/cualitativos en poblaciones amplias.  
 
-Ejemplo:
-👨‍⚖️ Entrevista a fiscales sobre desafíos en la persecución de delitos económicos.
+**Diseño efectivo:**  
+- Preguntas claras y neutrales (evitar sesgos).  
+- Escalas Likert para medir intensidad (ej.: 1 = "Nada de acuerdo", 5 = "Totalmente de acuerdo").  
+- Validar el cuestionario con una prueba piloto.  
 
-3. 📋 Cuestionario
-Definición:
-📊 Instrumento estandarizado para recoger datos cuantitativos/cualitativos en poblaciones amplias.
+**Aplicación:**  
+Encuesta a ciudadanos sobre percepción de corrupción en instituciones públicas.  
 
-Diseño efectivo:
+---
 
-❓ Preguntas claras y neutrales (evitar sesgos).
+## 4. Uso de Software Open Source (Rstudio) para el Análisis  
+**Ventajas:**  
+- Costo cero y transparencia metodológica.  
+- Compatibilidad con formatos abiertos (CSV, ODF).  
 
-📈 Escalas Likert para medir intensidad (ej.: 1 = "Nada de acuerdo", 5 = "Totalmente de acuerdo").
+**Ejemplo:**  
+Mapa de redes de corrupción generado con [Gephi](https://gephi.org/).  
 
-✅ Validar el cuestionario con una prueba piloto.
+---
 
-Aplicación:
-🏛 Encuesta a ciudadanos sobre percepción de corrupción en instituciones públicas.
+### Conclusión  
+La elección de la técnica depende del **objetivo de investigación** y los **recursos disponibles**. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.  
 
-4. 💻 Uso de Software Open Source (Rstudio) para el Análisis
-Ventajas:
+> **Tip:** Siempre cita tus fuentes y verifica la reproducibilidad (GitHub) de tu análisis.
+> # 📊 Técnicas de Investigación Jurídica
 
-💰 Costo cero y transparencia metodológica.
+_Cuatro metodologías clave para proyectos legales, con herramientas prácticas y ejemplos aplicados al derecho_
 
-🔄 Compatibilidad con formatos abiertos (CSV, ODF).
-
-Ejemplo:
-🕸 Mapa de redes de corrupción generado con Gephi.
-
-🎯 Conclusión
-La elección de la técnica depende del objetivo de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
-
-💡 Tip: Siempre cita tus fuentes y verifica la reproducibilidad (GitHub) de tu análisis.
+---
+agrega a este archivo .md iconos; no agregues escritura, dejalo tal cual
 
