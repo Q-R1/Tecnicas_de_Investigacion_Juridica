@@ -1,5 +1,4 @@
 # Referencias Bibliográficas en Metodología Jurídica  
-*(Orden alfabético / Formato cita-nota - Chicago modificado)*  
 
 ### **Autores**  
 - **Armenta, Leonel**. *Metodología de la investigación jurídica*. México: Editorial Flores, 2012.  
