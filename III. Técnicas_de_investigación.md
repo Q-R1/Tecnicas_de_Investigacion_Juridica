@@ -59,4 +59,10 @@ Mapa de redes de corrupción generado con [Gephi](https://gephi.org/).
 ### Conclusión  
 La elección de la técnica depende del **objetivo de investigación** y los **recursos disponibles**. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.  
 
-> **Tip:** Siempre cita tus fuentes y verifica la reproducibilidad (GitHub) de tu análisis.  
+> **Tip:** Siempre cita tus fuentes y verifica la reproducibilidad (GitHub) de tu análisis.
+> # 📊 Técnicas de Investigación Jurídica
+
+_Cuatro metodologías clave para proyectos legales, con herramientas prácticas y ejemplos aplicados al derecho_
+
+---
+agrega a este archivo .md iconos; no agregues escritura, dejalo tal cual
