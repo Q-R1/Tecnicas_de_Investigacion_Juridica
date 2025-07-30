@@ -1,6 +1,8 @@
-# 🏫 UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO (UJED)
+##Universidad Juarez del Estado de Durango
 
-## 🎓 DIVISIÓN DE ESTUDIOS DE POSGRADO E INVESTIGACIÓN
+Facultad de Derecho y Ciencias Políticas
+
+División de Estudios de Posgrado e Investigación##
 
 ### ⚖️ PROGRAMA DE POSGRADO  
 **Maestría en Derechos Humanos**  
