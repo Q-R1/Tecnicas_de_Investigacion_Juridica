@@ -1,7 +1,6 @@
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/267c00d8-9884-4893-b249-e623d333aa3c" />
 
-## 🏛️ UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO  
 ### 📚 Facultad de Derecho y Ciencias Políticas | 🎓 División de Estudios de Posgrado e Investigación
 
 ### ⚖️ PROGRAMA DE POSGRADO  
