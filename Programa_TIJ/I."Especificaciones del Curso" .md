@@ -1,8 +1,11 @@
-##Universidad Juarez del Estado de Durango
+# <div align="center">
+  <img src="https://www.ujed.mx/wp-content/uploads/2023/03/logo-ujed.png" alt="Logo UJED" width="200">
+  <br>
+  <img src="https://www.ujed.mx/wp-content/uploads/2021/03/Edificio-central-1.jpg" alt="Edificio Central UJED" width="300">
+</div>
 
-Facultad de Derecho y Ciencias Políticas
-
-División de Estudios de Posgrado e Investigación##
+## 🏛️ UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO  
+### 📚 Facultad de Derecho y Ciencias Políticas | 🎓 División de Estudios de Posgrado e Investigación
 
 ### ⚖️ PROGRAMA DE POSGRADO  
 **Maestría en Derechos Humanos**  
