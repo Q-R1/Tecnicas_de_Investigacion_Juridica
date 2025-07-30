@@ -1,4 +1,18 @@
-# ⚖️**TÉCNICAS DE INVESTIGACIÓN JURÍDICA**  
+# 🏫 UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO (UJED)
+
+## 🎓 DIVISIÓN DE ESTUDIOS DE POSGRADO E INVESTIGACIÓN
+
+### ⚖️ PROGRAMA DE POSGRADO  
+**Maestría en Derechos Humanos**  
+
+#### 📚 PROGRAMA DE ESTUDIOS  
+**Técnicas de Investigación Jurídica**  
+
+**Ciclo:** 2025  
+**Créditos:** 6  
+**Horario:**  
+- Viernes: 🕓 16:00 - 20:00 hrs  
+- Sábados: 🕗 8:00 - 14:00 hrs  
 
 ## 🎯 **Objetivo General**  
 "Proporcionar recursos doctrinales y metodológicos híbridos (clásicos y digitales) para investigaciones jurídicas, combinando inteligencia artificial y análisis de datos con software de código abierto." 
