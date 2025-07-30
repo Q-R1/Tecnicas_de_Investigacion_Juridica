@@ -37,7 +37,7 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 ---
 
 ## ➕ **Elementos Complementarios**  
-### 📚 **Metodología** (Recomendada para sección III):  
+### 📚 **Método y Metodología** (Recomendada para sección III):  
 - **Enfoque**: Dogmático (análisis normativo) vs. Sociológico (datos empíricos).  
 - **Técnicas**: Análisis jurisprudencial, entrevistas a expertos, comparación legislativa.  
 
