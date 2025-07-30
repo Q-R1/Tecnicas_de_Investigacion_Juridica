@@ -1,8 +1,5 @@
-# <div align="center">
-  <img src="https://www.ujed.mx/wp-content/uploads/2023/03/logo-ujed.png" alt="Logo UJED" width="200">
-  <br>
-  <img src="https://www.ujed.mx/wp-content/uploads/2021/03/Edificio-central-1.jpg" alt="Edificio Central UJED" width="300">
-</div>
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/267c00d8-9884-4893-b249-e623d333aa3c" />
 
 ## 🏛️ UNIVERSIDAD JUÁREZ DEL ESTADO DE DURANGO  
 ### 📚 Facultad de Derecho y Ciencias Políticas | 🎓 División de Estudios de Posgrado e Investigación
