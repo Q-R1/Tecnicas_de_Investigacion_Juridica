@@ -9,7 +9,8 @@
 **Técnicas de Investigación Jurídica**  
 
 **Ciclo:** 2025  
-**Créditos:** 6  
+**Modalidad:** Presencial  
+**Créditos:** 6 (Teórico-Prácticos)  
 **Horario:**  
 - Viernes: 🕓 16:00 - 20:00 hrs  
 - Sábados: 🕗 8:00 - 14:00 hrs  
