@@ -1,4 +1,4 @@
-# 📚 I. Revisión de literatura 
+# 📚 I. Marco teórico/Revisión de literatura 
 
 ##⚖️ Fuentes formales:  
 - **📜 Legislación**: Normativas, códigos y leyes escritas  
@@ -22,7 +22,7 @@
 - **Históricas y clásicas** (antecedentes legales)  
 - **Vigentes o actuales** (normativas en aplicación)  
 
-## 🏗️ 3. Marco Teórico y Estado de la Cuestión  
+## 🏗️ 3. Estado de la Cuestión  
 - **📌 Teorías dominantes**: Enfoques doctrinales prevalentes  
 - **🔄 Evolución normativa**: Cambios legislativos recientes  
 - **❓ Vacíos de investigación**: Temas pendientes de estudio  
