@@ -14,7 +14,8 @@
 ### Características:  
 - **Estructura básica**:  
 Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fundamento normativo/doctrinal]
-- **Tipos**:  
+- **Tipos**:
+- **Objetiva y subjetiva**: supuesto normativo y hecho juridico.
 - **Descriptivas**: Analizan relaciones entre variables legales.  
 - **Explicativas**: Proponen causas de fenómenos jurídicos.  
 - **Ejemplo**:  
@@ -39,7 +40,8 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 ## ➕ **Elementos Complementarios**  
 ### 📚 **Método y Metodología** (Recomendada para sección III):  
 - **Enfoque**: Dogmático (análisis normativo) vs. Sociológico (datos empíricos).  
-- **Técnicas**: Análisis jurisprudencial, entrevistas a expertos, comparación legislativa.  
+- **Técnicas**: Análisis jurisprudencial, entrevistas a expertos, comparación legislativa.
+- **Aparato crítico**: citas y referencias.    
 
 ### ⚠️ **Errores Comunes**:  
 - Problemas demasiado amplios (*"La corrupción en América Latina"*).  
