@@ -1,4 +1,4 @@
-# 📝 II. El Proceso de Investigación  
+# 📝 II. El Proceso General de Investigación  
 
 ## 1. 🎯 **Problema de Investigación**  
 ### Definición:  
@@ -7,8 +7,9 @@
 - **Requisitos**:  
   - **Delimitacón**: Ámbito espacial, temporal y material.  
   - **Relevancia**: Impacto social/académico (ej: vulneración de derechos, vacíos legales).
+  - **Justificación**: "los porqués de la investigación".
   - **pregunta(s)**: (ej: ¿Se le niega al acusado el debido proceso legal cuando se implementan sistemas de IA en alguna etapa del procedimiento penal?).
-  - **variable(s)**: (ej: Estado de derecho, defensores).
+  - **variables**: (ej: Estado de derecho, defensores).
 ---
 ## 2. ❓ **Hipótesis Jurídica**  
 ### Características:  
@@ -38,9 +39,8 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 ---
 
 ## ➕ **Elementos Complementarios**  
-### 📚 **Método y Metodología** (Recomendada para sección III):  
+### 📚 **Método, Metodología y Técnica**:  
 - **Enfoque**: Dogmático (análisis normativo) vs. Sociológico (datos empíricos).  
-- **Técnicas**: Análisis jurisprudencial, entrevistas a expertos, comparación legislativa.
 - **Aparato crítico**: citas y referencias.    
 
 ### ⚠️ **Errores Comunes**:  
