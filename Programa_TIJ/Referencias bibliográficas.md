@@ -1,5 +1,5 @@
 
-# 📚 Referencias Bibliográficas en Metodología Jurídica (Orden Alfabético)
+# 📚 Referencias Bibliográficas 
 
 1. **Armenta, Leonel**. *Metodología de la investigación jurídica*. México: Editorial Flores, 2012.  
 2. **Atienza, Manuel**. *Las razones del derecho: teorías de la argumentación jurídica*. Madrid: Centro de Estudios Políticos y Constitucionales, 2003. https://www.organojudicial.gob.pa/escuelajudicial/files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-Argumentacion-Jur%C3%ADdica.pdf 
