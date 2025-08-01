@@ -37,9 +37,8 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 - [ ] Redactados en infinitivo  
 
 ---
-# Relación lógica entre Problema, Objetivos e Hipótesis en Investigación
-    A[Problema de Investigación] --> B[Objetivos]
-    B --> C[Hipótesis]
+# 🔍 Relación lógica entre Problema, Objetivo(s) e Hipótesis de Investigación
+    A[Problema de Investigación] --> B[Objetivos] --> C[Hipótesis]
 ---
 ## ➕ **Elementos Complementarios**  
 ### 📚 **Método, Metodología y Técnica**:  
