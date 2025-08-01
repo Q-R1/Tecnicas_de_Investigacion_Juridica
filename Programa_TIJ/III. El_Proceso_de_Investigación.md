@@ -7,8 +7,8 @@
 - **Requisitos**:  
   - **Delimitacón**: Ámbito espacial, temporal y material.  
   - **Relevancia**: Impacto social/académico (ej: vulneración de derechos, vacíos legales).
-  - **pregunta**: (ej: ¿Se le niega al acusado el debido proceso legal cuando se implementan sistemas de IA en alguna etapa del procedimiento penal?).
-  - **variables**: (ej: Estado de derecho, defensores).
+  - **pregunta(s)**: (ej: ¿Se le niega al acusado el debido proceso legal cuando se implementan sistemas de IA en alguna etapa del procedimiento penal?).
+  - **variable(s)**: (ej: Estado de derecho, defensores).
 ---
 ## 2. ❓ **Hipótesis Jurídica**  
 ### Características:  
