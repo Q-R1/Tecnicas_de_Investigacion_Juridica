@@ -15,6 +15,8 @@
 
 **Global Freedom of Expression, Columbia University**. *Base de datos de casos sobre libertad de expresión*, consultado el 01/08/2025. Disponible en https://globalfreedomofexpression.columbia.edu/cases/
 
+**Gonález Ibarra, Juan de Dios**. *Epistemología jurídica*. México: Porrúa, 2001.
+
 **Hernández Sampieri, Roberto**, **Carlos Fernández Collado** y **Pilar Baptista Lucio**. *Metodología de la investigación*, 6ª ed. México: McGraw-Hill, 2014.
 
 **Marván Laborde, María (Coordinadora)**. *Metodologías de investigación jurídica y fenómenos de relevancia jurídica*. México: UNAM, 2022. Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/7161-metodologias-de-investigacion-juridica-y-fenomenos-de-relevancia-juridica-serie-opiniones-tecnicas-sobre-temas-de-relevancia-nacional-num-60
