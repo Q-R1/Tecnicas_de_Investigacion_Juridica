@@ -1,24 +1,20 @@
 
 > # 📊 Técnicas de Investigación Jurídica
 
-A continuación, se presentan cuatro técnicas fundamentales para la investigación jurídica y social, con énfasis en su aplicación práctica:
+A continuación, se presentan técnicas fundamentales para la investigación jurídica y social, con énfasis en su aplicación práctica:
 
-1. 📄 Análisis Documental
-Definición:
+1. 📄 Análisis Documental:
 Examen sistemático de fuentes escritas (leyes, sentencias, libros, artículos científicos).
 
 Pasos clave:
 
-🔎 Identificar fuentes primarias (normativas) y secundarias (doctrina).
+🔎 Identificar fuentes primarias y secundarias.
 
 📅 Evaluar la credibilidad y actualidad de los documentos.
 
-✂️ Sintetizar información relevante mediante matrices de análisis.
+✂️ Sintetizar información relevante.
 
-Ejemplo:
-Análisis comparativo de fallos judiciales sobre un mismo delito en diferentes jurisdicciones.
-
-2. 🎤 Entrevista y Notas
+2. 🎤 Entrevista, Notas y Comentarios
 Definición:
 Recolección de información mediante interacción directa con actores clave (jueces, abogados, testigos).
 
@@ -53,10 +49,7 @@ Ventajas:
 
 💰 Costo cero y transparencia metodológica.
 
-🔄 Compatibilidad con formatos abiertos (Xls, CSV, ODF).
-
-Ejemplo:
-Gráfico de tendencias de amparo
+🔄 Compatibilidad con formatos abiertos (.xlsx, .txt, .csv, .odf).
 
 🎯 Conclusión
 La elección de la técnica depende del objetivo de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
