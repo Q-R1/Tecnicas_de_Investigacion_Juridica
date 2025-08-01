@@ -38,12 +38,9 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 
 ---
 # Relación lógica entre Problema, Objetivos e Hipótesis en Investigación
-
-## Estructura Básica
-```mermaid
-graph LR
     A[Problema de Investigación] --> B[Objetivos]
     B --> C[Hipótesis]
+---
 ## ➕ **Elementos Complementarios**  
 ### 📚 **Método, Metodología y Técnica**:  
 - **Enfoque**: Dogmático (análisis normativo) vs. Sociológico (datos empíricos).  
