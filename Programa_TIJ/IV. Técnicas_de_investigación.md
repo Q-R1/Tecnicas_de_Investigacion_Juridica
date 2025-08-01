@@ -47,11 +47,13 @@ Encuesta a ciudadanos sobre percepción de corrupción en instituciones pública
 4. 💻 Uso de Software Open Source (Rstudio, Python) para el Análisis:
 
 💰 Costo cero y transparencia metodológica.
+
 🔄 Compatibilidad con formatos abiertos (.xlsx, .txt, .csv, .odf).
-💻 Reproducibilidad del Análisis (Git, GitHub)
+
+💻 Reproducibilidad del Análisis (Git, GitHub).
 
 🎯 Conclusión
-La elección de la técnica depende del objetivo de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
+La elección de la técnica depende de la relación lógica de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
 
 
 
