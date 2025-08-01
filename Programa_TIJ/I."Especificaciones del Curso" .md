@@ -13,8 +13,8 @@
 **Modalidad:** Presencial  
 **Créditos:** 6 (Teórico-Prácticos)  
 **Horario:**  
-- Viernes: 🕓 16:00 - 20:00 hrs  
-- Sábados: 🕗 8:00 - 14:00 hrs  
+- Viernes: 🕓 16:00 - 21:00 hrs  
+- Sábados: 🕗 9:00 - 14:00 hrs  
 
 ## 🎯 **Objetivo General**  
 "Proporcionar recursos doctrinales y metodológicos híbridos (clásicos y digitales) para investigaciones jurídicas, combinando inteligencia artificial y análisis de datos con software de código abierto." 
