@@ -10,9 +10,10 @@
 **Comisión Interamericana de Derechos Humanos (CIDH)**, *Informe Anual de la Comisión Interamericana de Derechos Humanos 2024*. Organización de los Estados Americanos (OEA), 2024. Disponible en https://www.oas.org/es/CIDH/informes/IA.asp?Year=2024
 
 **Dejusticia**, *Intervención en dos casos ante la Corte Constitucional sobre la aplicación CoronApp*, 2024. Disponible en https://www.dejusticia.org/litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-relacionados-con-la-aplicacion-coronapp/
-# Referencia estilo "cita nota" (normas UNAM) - Formato .md
 
 **Real Academia Española *et al.**, *Diccionario Panhispánico del Español Jurídico*, disponible en https://dpej.rae.es/
+
+**Real Academia Española**, Diccionario de la lengua española, 23.ª ed., [versión 23.8 en línea]. https://dle.rae.es
 
 **Fix-Zamudio, Héctor**, *Metodología, docencia e investigación jurídicas*. México, Porrúa, 2001.
 
