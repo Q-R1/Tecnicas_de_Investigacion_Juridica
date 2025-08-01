@@ -1,6 +1,8 @@
 
 # 📚 Referencias Bibliográficas
 
+**Arroyo Cisneros, Edgar Alan, Nevárez del Rivero, Joel Ricardo y Contreras Cortéz Luis Fernándo (Coordinadores).**, *Derechos Humanos y Nuevas Tecnologías. Retos en el constitucionalismo democrático*,Colección Tirant lo blanch, 2023. Disponible en https://editorial.tirant.com/mex/libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-democratico-edgar-alan-arroyo-cisneros-9788411479516
+
 **Atienza, Manuel**, *Las razones del derecho: teorías de la argumentación jurídica*. Madrid: Centro de Estudios Políticos y Constitucionales, 2003. Disponible en https://www.organojudicial.gob.pa/escuelajudicial/files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-Argumentacion-Jur%C3%ADdica.pdf
 
 **Botero Marino, Catalina**, Entrevista por José Antonio Montenegro, *Globo Economía*, CNN, 25 de febrero de 2025. Disponible en https://cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-sociales-regulaciones-crecimiento-globoeconomia-tv
@@ -8,16 +10,17 @@
 **Comisión Interamericana de Derechos Humanos (CIDH)**, *Informe Anual de la Comisión Interamericana de Derechos Humanos 2024*. Organización de los Estados Americanos (OEA), 2024. Disponible en https://www.oas.org/es/CIDH/informes/IA.asp?Year=2024
 
 **Dejusticia**, *Intervención en dos casos ante la Corte Constitucional sobre la aplicación CoronApp*, 2024. Disponible en https://www.dejusticia.org/litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-relacionados-con-la-aplicacion-coronapp/
+# Referencia estilo "cita nota" (normas UNAM) - Formato .md
 
-**Del Rincón, Delio** *et al.* *Técnicas de investigación en ciencias sociales*, Madrid: Dykinson, 2005.
+**Real Academia Española *et al.**, *Diccionario Panhispánico del Español Jurídico*, disponible en https://dpej.rae.es/
 
-**Fix-Zamudio, Héctor**, *Metodología, docencia e investigación jurídicas*. México: Porrúa, 2001.
+**Fix-Zamudio, Héctor**, *Metodología, docencia e investigación jurídicas*. México, Porrúa, 2001.
 
-**Global Freedom of Expression, Columbia University**, *Base de datos de casos sobre libertad de expresión*, consultado el 01/08/2025. Disponible en https://globalfreedomofexpression.columbia.edu/cases/
+**Global Freedom of Expression, Columbia University**, *Base de datos de casos sobre libertad de expresión*, Disponible en https://globalfreedomofexpression.columbia.edu/cases/
 
-**Gonález Ibarra, Juan de Dios**, *Epistemología jurídica*. México: Porrúa, 2001.
+**Gonález Ibarra, Juan de Dios**, *Epistemología jurídica*. México, Porrúa, 2001.
 
-**Hernández Montes de Oca, Ricardo**, Sistemas de citación y referencias bibliográficas para el ámbito jurídico. Manual, México: Universidad Nacional Autónoma de México, Instituto de Investigaciones Jurídicas, 2021, disponible en https://archivos.juridicas.unam.mx/www/bjv/libros/15/7079/1.pdf.
+**Hernández Montes de Oca, Ricardo**, Sistemas de citación y referencias bibliográficas para el ámbito jurídico. Manual, México: Universidad Nacional Autónoma de México (UNAM), Instituto de Investigaciones Jurídicas (IIJ), 2021, disponible en https://archivos.juridicas.unam.mx/www/bjv/libros/15/7079/1.pdf.
 
 **Hernández Sampieri, Roberto**, **Carlos Fernández Collado** y **Pilar Baptista Lucio**, *Metodología de la investigación*, 6ª ed. México: McGraw-Hill, 2014.
 
@@ -31,6 +34,6 @@
 
 **Witker, Jorge**, *La investigación jurídica*. México: UNAM, 1996.
 
-**Witker, Jorge**, *Metodología de la investigación jurídica*, 2ª ed. México: Editorial Porrúa, 2021. Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/6818-metodologia-de-la-investigacion-juridica
+**Witker, Jorge**, *Metodología de la investigación jurídica*, 2ª ed. México: Porrúa, 2021. Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/6818-metodologia-de-la-investigacion-juridica
 
-**World Justice Project**, *Índice de Estado de Derecho en México*, consultado el 01/08/2025. Disponible en https://worldjusticeproject.mx/indice-de-estado-de-derecho-en-mexico/
+**World Justice Project**, *Índice de Estado de Derecho en México*, Disponible en https://worldjusticeproject.mx/indice-de-estado-de-derecho-en-mexico/
