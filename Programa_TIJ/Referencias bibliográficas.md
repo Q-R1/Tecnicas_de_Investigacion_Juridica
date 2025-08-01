@@ -20,7 +20,7 @@
 
 **Gonález Ibarra, Juan de Dios**, *Epistemología jurídica*. México, Porrúa, 2001.
 
-**Hernández Montes de Oca, Ricardo**, Sistemas de citación y referencias bibliográficas para el ámbito jurídico. Manual, México: Universidad Nacional Autónoma de México (UNAM), Instituto de Investigaciones Jurídicas (IIJ), 2021, disponible en https://archivos.juridicas.unam.mx/www/bjv/libros/15/7079/1.pdf.
+**Hernández Montes de Oca, Ricardo**, Sistemas de citación y referencias bibliográficas para el ámbito jurídico. Manual, México: UNAM, Instituto de Investigaciones Jurídicas (IIJ), 2021, disponible en https://archivos.juridicas.unam.mx/www/bjv/libros/15/7079/1.pdf.
 
 **Hernández Sampieri, Roberto**, **Carlos Fernández Collado** y **Pilar Baptista Lucio**, *Metodología de la investigación*, 6ª ed. México: McGraw-Hill, 2014.
 
