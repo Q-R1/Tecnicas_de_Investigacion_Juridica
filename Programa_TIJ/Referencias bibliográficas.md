@@ -17,6 +17,19 @@
 ---
 
 ### **Fuentes Digitales**  
-- **UNAM**. *Manual de técnicas de investigación jurídica*, 2020. .  
+- **UNAM**. *Manual de técnicas de investigación jurídica*, 2020. .
+- # 📚 Referencias Bibliográficas en Metodología Jurídica  
 
----
+## 👨‍⚖️ **Autores Clásicos**  
+- **Armenta, L.** (2012). *Metodología de la investigación jurídica*. México: Editorial Flores.  
+- **Atienza, M.** (2003). *Las razones del derecho: teorías de la argumentación jurídica*. Madrid: CEPC.  
+- **Carbonell, M.** (2008). *Metodología de la investigación jurídica: perspectivas críticas*. UNAM. [PDF Disponible](http://example.com)  
+
+## 🖥️ **Fuentes Digitales**  
+- **UNAM** (2020). *Manual de técnicas de investigación jurídica*. 
+- **Corte IDH** (2021). *Guía de metodología para investigación en DDHH*. 
+
+## 📊 **Ciencias Sociales (Complementarias)**  
+- **Del Rincón, D.** *et al* (2005). *Técnicas de investigación en ciencias sociales*. Madrid: Dykinson. 
+- **Hernández Sampieri, R.** *et al* (2014). *Metodología de la investigación* (6ª ed.). McGraw-Hill. 
+
