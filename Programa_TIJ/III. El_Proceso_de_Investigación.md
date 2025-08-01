@@ -19,9 +19,6 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 - **Objetiva y subjetiva**: supuesto normativo y hecho juridico.
 - **Descriptivas**: Analizan relaciones entre variables legales.  
 - **Explicativas**: Proponen causas de fenómenos jurídicos.  
-- **Ejemplo**:  
-*"Si el Código Civil no define NFTs (art. 767), entonces los tribunales aplicarán analogía con bienes muebles (art. 750), generando inseguridad jurídica."*  
-
 ---
 
 ## 3. 🎯 **Objetivos**  
@@ -38,7 +35,6 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 
 ---
 # 🔍 Relación lógica entre Problema, Objetivo(s) e Hipótesis de Investigación
-    A[Problema de Investigación] --> B[Objetivos] --> C[Hipótesis]
 ---
 ## ➕ **Elementos Complementarios**  
 ### 📚 **Método, Metodología y Técnica**:  
@@ -47,6 +43,7 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 
 ### ⚠️ **Errores Comunes**:  
 - Problemas demasiado amplios (*"La corrupción en América Latina"*).  
-- Hipótesis no falsables (*"El derecho debe ser justo"*).  
+- Hipótesis no falsables (*"El derecho debe ser justo"*).
+- Fragmentación entre problema, objetivo e hipótesis (*"El problema es la vulneración de los derechos humanos en prisiones, el objetivo es analizar políticas de reinserción y la hipótesis sostiene que la educación superior reduce los índices de reincidencia"*).
 
 
