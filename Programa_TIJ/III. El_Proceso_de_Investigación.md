@@ -1,4 +1,4 @@
-# 📝 II. El Proceso General de Investigación  
+# 📝 III. El Proceso General de Investigación  
 
 ## 1. 🎯 **Problema de Investigación**  
 ### Definición:  
@@ -45,5 +45,6 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 - Problemas demasiado amplios (*"La corrupción en América Latina"*).  
 - Hipótesis no falsables (*"El derecho debe ser justo"*).
 - Fragmentación entre problema, objetivo e hipótesis (*"El problema es la vulneración de los derechos humanos en prisiones, el objetivo es analizar políticas de reinserción y la hipótesis sostiene que la educación superior reduce los índices de reincidencia"*).
+
 
 
