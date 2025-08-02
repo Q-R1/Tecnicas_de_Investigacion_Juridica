@@ -1,5 +1,5 @@
 
-> # 📊 Técnicas de Investigación Jurídica
+> # 📊 IV. Técnicas de Investigación Jurídica
 
 A continuación, se presentan técnicas fundamentales para la investigación jurídica y social, con énfasis en su aplicación práctica:
 
@@ -54,6 +54,7 @@ Encuesta a ciudadanos sobre percepción de corrupción en instituciones pública
 
 🎯 Conclusión
 La elección de la técnica depende de la relación lógica de investigación y los recursos disponibles. Combinar métodos (ej.: análisis documental + entrevistas) enriquece los resultados.
+
 
 
 
