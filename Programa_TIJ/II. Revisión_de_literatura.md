@@ -1,4 +1,4 @@
-# 📚 I. Marco teórico
+# 📚 II. Revisión de literatura o Marco Teórico 
 
 ## ⚖️ 1. Definición de teoría  
 
@@ -17,5 +17,6 @@
 ## 🏗️ 3. Construcción del marco teórico: por qué y para qué  
 
 ## 🏗️ 4. Desarrollo del Estado de la Cuestión  
+
 
 
