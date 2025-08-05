@@ -42,35 +42,26 @@ Vázquez Valencia, Luis Daniel. "¿Cuál es la verdadera metodología de los
 
 **World Justice Project**, *Índice de Estado de Derecho en México*, Disponible en https://worldjusticeproject.mx/indice-de-estado-de-derecho-en-mexico/
 
-**Bibliografía**
+# Bibliografía
 
 Arroyo Cisneros, Edgar Alan, Nevárez del Rivero, Joel Ricardo y Contreras 
     Cortéz Luis Fernándo (Coordinadores). *Derechos Humanos y Nuevas 
     Tecnologías. Retos en el constitucionalismo democrático*. Colección 
-    Tirant lo blanch, 2023. Disponible en https://editorial.tirant.com/mex/
-    libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-
-    democratico-edgar-alan-arroyo-cisneros-9788411479516
+    Tirant lo blanch, 2023. Disponible en https://editorial.tirant.com/mex/libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-democratico-edgar-alan-arroyo-cisneros-9788411479516
 
 Atienza, Manuel. *Las razones del derecho: teorías de la argumentación 
     jurídica*. Madrid: Centro de Estudios Políticos y Constitucionales, 
-    2003. Disponible en https://www.organojudicial.gob.pa/escuelajudicial/
-    files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-
-    Argumentacion-Jur%C3%ADdica.pdf
+    2003. Disponible en https://www.organojudicial.gob.pa/escuelajudicial/files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-Argumentacion-Jur%C3%ADdica.pdf
 
 Botero Marino, Catalina. Entrevista por José Antonio Montenegro. *Globo 
-    Economía*, CNN, 25 de febrero de 2025. Disponible en https://
-    cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-
-    sociales-regulaciones-crecimiento-globoeconomia-tv
+    Economía*, CNN, 25 de febrero de 2025. Disponible en https://cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-sociales-regulaciones-crecimiento-globoeconomia-tv
 
 Comisión Interamericana de Derechos Humanos (CIDH). *Informe Anual de la 
     Comisión Interamericana de Derechos Humanos 2024*. Organización de los 
-    Estados Americanos (OEA), 2024. Disponible en https://www.oas.org/es/
-    CIDH/informes/IA.asp?Year=2024
+    Estados Americanos (OEA), 2024. Disponible en https://www.oas.org/es/CIDH/informes/IA.asp?Year=2024
 
 Dejusticia. *Intervención en dos casos ante la Corte Constitucional sobre 
-    la aplicación CoronApp*, 2024. Disponible en https://www.dejusticia.org/
-    litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-
-    relacionados-con-la-aplicacion-coronapp/
+    la aplicación CoronApp*, 2024. Disponible en https://www.dejusticia.org/litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-relacionados-con-la-aplicacion-coronapp/
 
 Real Academia Española *et al.* *Diccionario Panhispánico del Español 
     Jurídico*. Disponible en https://dpej.rae.es/
@@ -82,8 +73,7 @@ Fix-Zamudio, Héctor. *Metodología, docencia e investigación jurídicas*.
     México: Porrúa, 2001.
 
 Global Freedom of Expression, Columbia University. *Base de datos de casos 
-    sobre libertad de expresión*. Disponible en https://
-    globalfreedomofexpression.columbia.edu/cases/
+    sobre libertad de expresión*. Disponible en https://globalfreedomofexpression.columbia.edu/cases/
 
 González Ibarra, Juan de Dios. *Epistemología jurídica*. México: Porrúa, 
     2001.
@@ -99,22 +89,17 @@ Hernández Sampieri, Roberto, Carlos Fernández Collado y Pilar Baptista
 
 Marván Laborde, María (Coordinadora). *Metodologías de investigación 
     jurídica y fenómenos de relevancia jurídica*. México: UNAM, 2022. 
-    Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/7161-
-    metodologias-de-investigacion-juridica-y-fenomenos-de-relevancia-
-    juridica-serie-opiniones-tecnicas-sobre-temas-de-relevancia-nacional-
-    num-60
+    Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/7161-metodologias-de-investigacion-juridica-y-fenomenos-de-relevancia-juridica-serie-opiniones-tecnicas-sobre-temas-de-relevancia-nacional-num-60
 
 Observacom. *¿Has experimentado shadowbanning? Encuesta de Observacom 
     sobre moderación de contenidos en redes sociales*. Global Freedom of 
     Expression, Columbia University, 13 de marzo de 2025. Disponible en 
-    https://globalfreedomofexpression.columbia.edu/updates/2025/03/has-
-    experimentado-shadowbanning-encuesta-de-observacom/
+    https://globalfreedomofexpression.columbia.edu/updates/2025/03/has-experimentado-shadowbanning-encuesta-de-observacom/
 
 Pérez-Liñán, Aníbal (director del Instituto Kellogg de Estudios 
     Internacionales y profesor de la Universidad de Notre Dame). Entrevista 
     por José Antonio Montenegro. *Globo Economía*, CNN, 7 de julio de 2025. 
-    Disponible en https://cnnespanol.cnn.com/2025/07/07/video/video/
-    economia-estado-derecho-ley-democracia-globoeconomia-tv
+    Disponible en https://cnnespanol.cnn.com/2025/07/07/video/video/economia-estado-derecho-ley-democracia-globoeconomia-tv
 
 Vázquez Valencia, Luis Daniel. "¿Cuál es la verdadera metodología de los 
     derechos humanos?" *Andares: Revista de Derechos Humanos y de la 
@@ -122,14 +107,12 @@ Vázquez Valencia, Luis Daniel. "¿Cuál es la verdadera metodología de los
 
 Weston, Anthony. *Las claves de la argumentación*. Trad. Jorge Malem. 
     Buenos Aires: Biblioteca de la Facultad de Ciencias Naturales y Museo, 
-    UNLP, 2010. Disponible en https://www.bfa.fcnym.unlp.edu.ar/catalogo/
-    doc_num.php?explnum_id=2314
+    UNLP, 2010. Disponible en https://www.bfa.fcnym.unlp.edu.ar/catalogo/doc_num.php?explnum_id=2314
 
 Witker, Jorge. *La investigación jurídica*. México: UNAM, 1996.
 
 Witker, Jorge. *Metodología de la investigación jurídica*, 2ª ed. México: 
-    Porrúa, 2021. Disponible en https://biblio.juridicas.unam.mx/bjv/
-    detalle-libro/6818-metodologia-de-la-investigacion-juridica
+    Porrúa, 2021. Disponible en https://biblio.juridicas.unam.mx/bjv/detalle-libro/6818-metodologia-de-la-investigacion-juridica
 
 World Justice Project. *Índice de Estado de Derecho en México*. Disponible 
     en https://worldjusticeproject.mx/indice-de-estado-de-derecho-en-mexico/
