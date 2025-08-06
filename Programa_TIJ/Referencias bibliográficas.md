@@ -30,7 +30,7 @@
 
 **Pérez-Liñán, Aníbal** (director del Instituto Kellogg de Estudios Internacionales y profesor de la Universidad de Notre Dame), Entrevista por José Antonio Montenegro, *Globo Economía*, CNN, 7 de julio de 2025. Disponible en https://cnnespanol.cnn.com/2025/07/07/video/video/economia-estado-derecho-ley-democracia-globoeconomia-tv
 
-Vázquez Valencia, Luis Daniel. "¿Cuál es la verdadera metodología de los 
+**Vázquez Valencia, Luis Daniel**. "¿Cuál es la verdadera metodología de los 
     derechos humanos?" *Andares: Revista de Derechos Humanos y de la 
     Naturaleza* 8 (2025): 5-23. https://doi.org/10.32719/29536782.2025.8.1.
 
