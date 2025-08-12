@@ -1,4 +1,4 @@
-# 📝 II. El Proceso de Investigación  
+# 📝 III. El Proceso General de Investigación  
 
 ## 1. 🎯 **Problema de Investigación**  
 ### Definición:  
@@ -7,19 +7,18 @@
 - **Requisitos**:  
   - **Delimitacón**: Ámbito espacial, temporal y material.  
   - **Relevancia**: Impacto social/académico (ej: vulneración de derechos, vacíos legales).
-  - **pregunta**: (ej: ¿Se le niega al acusado el debido proceso legal cuando se implementan sistemas de IA en alguna etapa del procedimiento penal?).
+  - **Justificación**: "los porqués de la investigación".
+  - **pregunta(s)**: (ej: ¿Se le niega al acusado el debido proceso legal cuando se implementan sistemas de IA en alguna etapa del procedimiento penal?).
   - **variables**: (ej: Estado de derecho, defensores).
 ---
 ## 2. ❓ **Hipótesis Jurídica**  
 ### Características:  
 - **Estructura básica**:  
 Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fundamento normativo/doctrinal]
-- **Tipos**:  
+- **Tipos**:
+- **Objetiva y subjetiva**: supuesto normativo y hecho juridico.
 - **Descriptivas**: Analizan relaciones entre variables legales.  
 - **Explicativas**: Proponen causas de fenómenos jurídicos.  
-- **Ejemplo**:  
-*"Si el Código Civil no define NFTs (art. 767), entonces los tribunales aplicarán analogía con bienes muebles (art. 750), generando inseguridad jurídica."*  
-
 ---
 
 ## 3. 🎯 **Objetivos**  
@@ -35,14 +34,17 @@ Si [X condición jurídica] → Entonces [Y consecuencia legal] → Porque [Z fu
 - [ ] Redactados en infinitivo  
 
 ---
-
+# 🔍 Relación lógica entre Problema, Objetivo(s) e Hipótesis de Investigación
+---
 ## ➕ **Elementos Complementarios**  
-### 📚 **Metodología** (Recomendada para sección III):  
+### 📚 **Método, Metodología y Técnica**:  
 - **Enfoque**: Dogmático (análisis normativo) vs. Sociológico (datos empíricos).  
-- **Técnicas**: Análisis jurisprudencial, entrevistas a expertos, comparación legislativa.  
+- **Aparato crítico**: citas y referencias.    
 
 ### ⚠️ **Errores Comunes**:  
 - Problemas demasiado amplios (*"La corrupción en América Latina"*).  
-- Hipótesis no falsables (*"El derecho debe ser justo"*).  
+- Hipótesis no falsables (*"El derecho debe ser justo"*).
+- Fragmentación entre problema, objetivo e hipótesis (*"El problema es la vulneración de los derechos humanos en prisiones, el objetivo es analizar políticas de reinserción y la hipótesis sostiene que la educación superior reduce los índices de reincidencia"*).
+
 
 
