@@ -28,10 +28,10 @@
 
 | **Componente**             | **Porcentaje**| **Rango de Calificación**|  
 |----------------------------|---------------|--------------------------|  
-| **Evaluación Parcial 1**   | 25%           | 6.0 - 10.0               |  
-| **Evaluación Parcial 2**   | 50%           | 6.0 - 10.0               |  
-| **Evaluación Parcial 3**   | 20%           | 6.0 - 10.0               |  
-| **Participación**          | 5%            | 6.0 - 10.0               |  
+| **Evaluación Parcial 1**   | 25%           | 8.0 - 10.0               |  
+| **Evaluación Parcial 2**   | 50%           | 8.0 - 10.0               |  
+| **Evaluación Parcial 3**   | 20%           | 8.0 - 10.0               |  
+|                            |               |                          |             
 
 
 ## ✅ **Requisito obligatorio**  
@@ -40,3 +40,4 @@
 ---
 
 🚀 **¡Éxito en tu curso!**
+
